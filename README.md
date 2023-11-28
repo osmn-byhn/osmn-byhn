@@ -24,8 +24,8 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### 😂 Projects
-<a href="https://monnadesign.com/" alt="monnadesign"><img src='https://randommeme-five.vercel.app/' style="width: 100px; height: auto;"/></a>
+### 💼 Projects
+<a href="https://monnadesign.com/" alt="monnadesign"><img src='https://i.hizliresim.com/tmkdjwr.png' style="width: 100px; height: auto;"/></a>
 
 
 
