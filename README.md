@@ -21,11 +21,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=osmn-byhn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 💼 Projects
+<a href="https://monnadesign.com/" target="_blank" alt="monnadesign"><img src='https://i.hizliresim.com/tmkdjwr.png' style="width: 100px; height: auto;"/></a>
+
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### 💼 Projects
-<a href="https://monnadesign.com/" alt="monnadesign"><img src='https://i.hizliresim.com/tmkdjwr.png' style="width: 100px; height: auto;"/></a>
 
 
 
