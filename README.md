@@ -22,10 +22,16 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=osmn-byhn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+
 ### 💼 Projects
 <a href="https://monnadesign.com/" target="_blank" alt="monnadesign"><img src='https://i.hizliresim.com/tmkdjwr.png' style="width: 100px; height: auto;"/></a>
 <a href="http://oryis.co/" target="_blank" alt="monnadesign"><img src='http://oryis.co/img/logo-white.png' style="width: 100px; height: auto; margin-left: 15px;"/></a>
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/osmn-byhn/osmn-byhn/output/snake.svg" alt="Snake animation" />
 
 
 ### 😂 Random Dev Meme
@@ -37,5 +43,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=osmn-byhn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
