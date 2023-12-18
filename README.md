@@ -24,7 +24,7 @@
 
 ### 💼 Projects
 <a href="https://monnadesign.com/" target="_blank" alt="monnadesign"><img src='https://i.hizliresim.com/tmkdjwr.png' style="width: 100px; height: auto;"/></a>
-<a href="http://oryis.co/" target="_blank" alt="monnadesign"><img src='http://oryis.co/img/logo-white.png' style="width: 100px; height: auto; margin-left: 5%"/></a>
+<a href="http://oryis.co/" target="_blank" alt="monnadesign"><img src='http://oryis.co/img/logo-white.png' style="width: 100px; height: auto; margin-left: 25%"/></a>
 
 
 
