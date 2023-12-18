@@ -31,7 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/osmn-byhn/osmn-byhn/output/snake.svg" alt="Snake animation" />
 
 
 ### 😂 Random Dev Meme
