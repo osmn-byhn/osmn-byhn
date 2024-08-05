@@ -47,8 +47,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=osmn-byhn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### More using Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmn-byhn)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
