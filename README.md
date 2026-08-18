@@ -1,4 +1,4 @@
-![Sharingann](https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif)
+![Memento Mori](https://raw.githubusercontent.com/osmn-byhn/portfolyo/refs/heads/main/public/memento_mori.jpg)
 
 ## 🖥️ Osman Beyhan
 
